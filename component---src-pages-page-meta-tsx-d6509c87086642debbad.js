@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkmy_gatsby_site=self.webpackChunkmy_gatsby_site||[]).push([[179],{2381:function(e,t,n){n.r(t),n.d(t,{default:function(){return r}});var l=n(7294);function r(e){let{title:t,description:n="Hello World"}=e;return l.createElement(l.Fragment,null,l.createElement("title",null,"My Site | ",t),l.createElement("meta",{name:"description",content:n}))}}}]);
+//# sourceMappingURL=component---src-pages-page-meta-tsx-d6509c87086642debbad.js.map
